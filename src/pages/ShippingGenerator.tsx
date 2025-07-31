@@ -171,7 +171,8 @@ export default function ShippingGenerator() {
       <div className="text-center mb-8">
         <div className="flex items-center justify-center gap-3 mb-2">
           <Truck className="h-8 w-8 text-blue-600" />
-          <h1 className="text-3xl font-bold text-gray-800">LabelKu <br></br>by IKIRIEYU | イキリユ</h1>
+          <h1 className="text-3xl font-bold text-gray-800" align="left"
+            >LabelKu <br></br>by IKIRIEYU | イキリユ</h1>
         </div>
         <p className="text-gray-600">Buat resi pengiriman dan cek ongkos kirim dengan mudah</p>
       </div>
